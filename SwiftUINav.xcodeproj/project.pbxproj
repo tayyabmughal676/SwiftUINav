@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		439A96322682284800C23A40 /* SwiftUINavApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439A96312682284800C23A40 /* SwiftUINavApp.swift */; };
-		439A96342682284800C23A40 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439A96332682284800C23A40 /* ContentView.swift */; };
+		439A96342682284800C23A40 /* RedOneview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439A96332682284800C23A40 /* RedOneview.swift */; };
 		439A96362682284900C23A40 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 439A96352682284900C23A40 /* Assets.xcassets */; };
 		439A96392682284900C23A40 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 439A96382682284900C23A40 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		439A962E2682284800C23A40 /* SwiftUINav.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUINav.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		439A96312682284800C23A40 /* SwiftUINavApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUINavApp.swift; sourceTree = "<group>"; };
-		439A96332682284800C23A40 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		439A96332682284800C23A40 /* RedOneview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedOneview.swift; sourceTree = "<group>"; };
 		439A96352682284900C23A40 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		439A96382682284900C23A40 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		439A963A2682284900C23A40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -53,7 +53,7 @@
 			isa = PBXGroup;
 			children = (
 				439A96312682284800C23A40 /* SwiftUINavApp.swift */,
-				439A96332682284800C23A40 /* ContentView.swift */,
+				439A96332682284800C23A40 /* RedOneview.swift */,
 				439A96352682284900C23A40 /* Assets.xcassets */,
 				439A963A2682284900C23A40 /* Info.plist */,
 				439A96372682284900C23A40 /* Preview Content */,
@@ -138,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				439A96342682284800C23A40 /* ContentView.swift in Sources */,
+				439A96342682284800C23A40 /* RedOneview.swift in Sources */,
 				439A96322682284800C23A40 /* SwiftUINavApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

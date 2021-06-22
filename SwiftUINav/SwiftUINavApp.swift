@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUINavApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RedOneview()
         }
     }
 }
